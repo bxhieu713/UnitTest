@@ -1,4 +1,5 @@
 public class Premium {
+
     private String gender;
     private int seater;
 
